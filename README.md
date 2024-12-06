@@ -1,2 +1,1 @@
-# laboratorna
 # 434
